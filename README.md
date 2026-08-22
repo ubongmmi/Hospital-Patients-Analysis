@@ -46,7 +46,8 @@ The analysis followed these steps:
 ---
 
 ## 4. Analysis and Findings
-![Hospital Patients Analysis](ubong1.jpg)
+![Hospital Patients Analysis](ubong1.jpg) 
+![Walmart Dashboard](ubong1.jpg)
 ### 4.1 Overall Performance (2021–2024)
 
 | Metric | Value |
